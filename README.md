@@ -1,1 +1,1 @@
-# TestRepo2
+# TestRepo2 - for the class exercise
